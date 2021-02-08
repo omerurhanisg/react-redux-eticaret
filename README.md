@@ -1,1 +1,1 @@
-sitenin linki : https://clever-sammet-e85b75.netlify.app
+sitenin linki : https://elastic-leakey-758546.netlify.app
